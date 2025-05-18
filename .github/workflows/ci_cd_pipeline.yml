@@ -34,3 +34,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         run: echo "Deploying to production"
 
+<<<<<<< HEAD
+=======
+        
+>>>>>>> 1ab648d87bb32ad7f86ec64f562389d37e923d96
